@@ -1,12 +1,14 @@
-# 摘要
+# <p align="center">基于Python的六子棋人机对战软件</p>
+
+## 摘要
 六子棋是一种新型的黑白棋博弈棋种，被誉为“目前最公平”的博弈棋种，相对于五子棋和围棋来讲，六子棋的历史特别短，但是优点在于对双方都公平，没有其他的规则限制。本次我们使用Python进行六子棋的算法开发与实现。<br>
 关键词：Python 六子棋 公平
 
-# abstracts
+## abstracts
 Romoku is a new type of black and white chess game chess, known as the "fairest" game at present, compared to Gomoku and Go, the history of Rokumoku is particularly short, but the advantage is that it is fair to both sides, there are no other rules restrictions. This time, we use Python for the algorithm development and implementation of six-backgammon.<br>
 keyword:Python Romoku fair
 
-# 参考文献
+## 参考文献
 [1]段浴,王宛宛.基于人工智能的六子棋博弈平台研究与实现[J].科技创新与应用,2022,12(19):24-26+31.DOI:10.19981/j.CN23-1581/G3.2022.19.005.<br>
 [2]邓银莹,常郝.并行思想的六子棋博弈搜索算法设计[J].电子世界,2021(10):146-147.DOI:10.19353/j.cnki.dzsj.2021.10.063.<br>
 [3]王鸿菲,王静文,李媛.基于PVS算法的六子棋博弈系统的研究[J].智能计算机与应用,2021,11(02):97-100.<br>
