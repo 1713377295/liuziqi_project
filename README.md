@@ -28,7 +28,7 @@ keyword:Python Romoku fair
 
 ##<p align="center">可行性分析</p>
   由于六子棋发明不久，目前在学术界引起的关注较少。但是六子棋是一种新颖、有趣、易学难精的棋。由于每人每次下两步(第一步除外)，所以它的对攻性强，可变性大，棋路开阔，且又免去了五子棋繁杂的禁手，因此极受大众欢迎。在公平性上进行拓展，就会发现，如果想要实现人机对弈的绝对公平，就需要六子棋算法可以精准的算到每一步的落点并且和人的思想同步。
-  ![image](https://user-images.githubusercontent.com/126448556/226250109-70378e00-6b57-4e65-a818-8ef9b560c1a2.png)
+ <p align="center"> ![image](https://user-images.githubusercontent.com/126448556/226250109-70378e00-6b57-4e65-a818-8ef9b560c1a2.png)</p>
 
 <p align="center">图2-1 六子棋程序流程图</p>
 
